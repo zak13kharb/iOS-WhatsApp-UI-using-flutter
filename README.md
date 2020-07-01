@@ -25,5 +25,9 @@ https://play.google.com/store/apps/details?id=com.zakapp.ioswidget
 Screenshots of the app:
 
 ![1](https://user-images.githubusercontent.com/67686445/86234956-55bac680-bbb5-11ea-935d-660b632f38f7.jpg)
+![2](https://user-images.githubusercontent.com/67686445/86235136-96b2db00-bbb5-11ea-98b2-8d3168e28568.jpg)
+![3](https://user-images.githubusercontent.com/67686445/86235142-987c9e80-bbb5-11ea-8e60-a985c2bd169f.jpg)
+![4](https://user-images.githubusercontent.com/67686445/86235163-a2060680-bbb5-11ea-93dc-9ff953a46d48.jpg)
+
  
  
