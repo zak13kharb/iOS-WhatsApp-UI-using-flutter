@@ -24,6 +24,6 @@ https://play.google.com/store/apps/details?id=com.zakapp.ioswidget
 
 Screenshots of the app:
 
-![alt text](https://www.google.com/search?q=image&rlz=1C1CHBD_enIN903IN903&tbm=isch&source=iu&ictx=1&fir=RkjAFRQNR5bUxM%252CQooZsUX3wOLfLM%252C_&vet=1&usg=AI4_-kRX1Clu3WTNaw9UWm15PKXxL5w3eQ&sa=X&ved=2ahUKEwj93ay07KvqAhWzjuYKHfc7D6oQ9QEwAXoECAkQMg#imgrc=RkjAFRQNR5bUxM)
+![Screenshot](https://imgur.com/mcraYq8)
  
  
